@@ -1,6 +1,6 @@
 # ESMa Code Catalog v1.0
 
-[Vesión en Español](taxonomia_ESMa.md)
+[Vesión en Español](catalogo_codigos_ESMa.md)
 
 ## Official reference for the classification of Errores Sistemáticos en Matemáticas
 
