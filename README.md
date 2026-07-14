@@ -1,5 +1,7 @@
 # ESMa
 
+[English version](README_EN.md)
+
 ## Errores Sistemáticos en Matemáticas
 
 ### Repositorio abierto de razonamientos alternativos y dificultades conceptuales en matemáticas K-12
