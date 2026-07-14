@@ -56,120 +56,120 @@ Donde:
 
 ## AR --- Aritmética
 
-  Código   Tema
-  -------- --------------------------------
-  OP       Operaciones básicas
-  JO       Jerarquía de operaciones
-  EN       Números enteros y signos
-  PO       Propiedades de las operaciones
-  PT       Potencias
-  RA       Raíces
+  Código   | Tema
+  -------- | --------------------------------
+  OP       | Operaciones básicas
+  JO       | Jerarquía de operaciones
+  EN       | Números enteros y signos
+  PO       | Propiedades de las operaciones
+  PT       | Potencias
+  RA       | Raíces
 
 ------------------------------------------------------------------------
 
 ## FR --- Fracciones, razones y proporcionalidad
 
-  Código   Tema
-  -------- ------------------------------
-  CF       Concepto de fracción
-  EQ       Equivalencia de fracciones
-  SU       Suma y resta de fracciones
-  MU       Multiplicación de fracciones
-  DF       División de fracciones
-  RP       Razones y proporciones
-  PC       Porcentajes
+  Código   | Tema
+  -------- |------------------------------
+  CF       | Concepto de fracción
+  EQ       | Equivalencia de fracciones
+  SU       | Suma y resta de fracciones
+  MU       | Multiplicación de fracciones
+  DF       | División de fracciones
+  RP       | Razones y proporciones
+  PC       | Porcentajes
 
 ------------------------------------------------------------------------
 
 ## AL --- Álgebra
 
-  Código   Tema
-  -------- -------------------------
-  VA       Variables
-  EX       Expresiones algebraicas
-  IE       Igualdad y equivalencia
-  EA       Ecuaciones algebraicas
-  FU       Funciones
-  FA       Factorización
+  Código   | Tema
+  -------- |-------------------------
+  VA       | Variables
+  EX       | Expresiones algebraicas
+  IE       | Igualdad y equivalencia
+  EA       | Ecuaciones algebraicas
+  FU       | Funciones
+  FA       | Factorización
 
 ------------------------------------------------------------------------
 
 ## GE --- Geometría
 
-  Código   Tema
-  -------- ---------------------
-  FG       Figuras geométricas
-  AN       Ángulos
-  MG       Medición geométrica
-  AR       Área
-  VO       Volumen
-  TR       Transformaciones
+  Código   | Tema
+  -------- |---------------------
+  FG       | Figuras geométricas
+  AN       | Ángulos
+  MG       | Medición geométrica
+  AR       | Área
+  VO       | Volumen
+  TR       | Transformaciones
 
 ------------------------------------------------------------------------
 
 ## MG --- Magnitudes y medición
 
-  Código   Tema
-  -------- --------------
-  UN       Unidades
-  CO       Conversiones
-  ET       Estimación
-  CT       Cantidades
+  Código   | Tema
+  -------- |--------------
+  UN       | Unidades
+  CO       | Conversiones
+  ET       | Estimación
+  CT       | Cantidades
 
 ------------------------------------------------------------------------
 
 ## DA --- Datos, estadística y probabilidad
 
-  Código   Tema
-  -------- -------------------------
-  ID       Interpretación de datos
-  PR       Probabilidad
-  ME       Medidas estadísticas
-  GS       Gráficas estadísticas
+  Código   | Tema
+  -------- |-------------------------
+  ID       | Interpretación de datos
+  PR       | Probabilidad
+  ME       | Medidas estadísticas
+  GS       | Gráficas estadísticas
 
 ------------------------------------------------------------------------
 
 ## CA --- Cálculo
 
-  Código   Tema
-  -------- --------------------
-  LI       Límites
-  DE       Derivadas
-  IN       Integrales
-  VC       Variación y cambio
+  Código   | Tema
+  -------- |--------------------
+  LI       | Límites
+  DE       | Derivadas
+  IN       | Integrales
+  VC       | Variación y cambio
 
 ------------------------------------------------------------------------
 
 ## LG --- Lógica y razonamiento matemático
 
-  Código   Tema
-  -------- ---------------
-  PA       Patrones
-  AG       Argumentación
-  DD       Deducción
-  PB       Problemas
+  Código   | Tema
+  -------- |---------------
+  PA       | Patrones
+  AG       | Argumentación
+  DD       | Deducción
+  PB       | Problemas
 
 ------------------------------------------------------------------------
 
 ## NT --- Números y teoría numérica
 
-  Código   Tema
-  -------- ------------------------
-  DV       Divisibilidad
-  NP       Números primos
-  MD       Modularidad
-  CN       Clasificación numérica
+  Código   | Tema
+  -------- |------------------------
+  DV       | Divisibilidad
+  NP       | Números primos
+  MD       | Modularidad
+  CN       | Clasificación numérica
 
 ------------------------------------------------------------------------
 
 ## VR --- Visualización y representación matemática
 
-  Código   Tema
-  -------- ------------------
-  GR       Gráficas
-  MO       Modelos
-  RE       Representaciones
-  EC       Escalas
+  Código   | Tema
+  -------- |------------------
+  GR       | Gráficas
+  MO       | Modelos
+  RE       | Representaciones
+  EC       | Escalas
 
 ------------------------------------------------------------------------
 
@@ -192,6 +192,6 @@ Donde:
 
 # Historial de cambios
 
-  Versión   Fecha        Descripción
-  --------- ------------ --------------------------------------------
-  1.0       Julio 2026   Creación inicial del catálogo oficial ESMa
+  Versión  | Fecha       |  Descripción
+  ---------| ------------| --------------------------------------------
+  1.0      | Julio 2026  |  Creación inicial del catálogo oficial ESMa
