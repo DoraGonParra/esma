@@ -1,5 +1,7 @@
 # Taxonomía ESMa v1.0
 
+[English version](taxonomy_ESMa_EN.md)
+
 ## Sistema de clasificación de Errores Sistemáticos en Matemáticas
 
 ------------------------------------------------------------------------
