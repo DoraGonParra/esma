@@ -37,18 +37,18 @@ Donde:
 
 # Áreas matemáticas
 
-  Código   Área
-  -------- -------------------------------------------
-  AR       Aritmética
-  FR       Fracciones, razones y proporcionalidad
-  AL       Álgebra
-  GE       Geometría
-  MG       Magnitudes y medición
-  DA       Datos, estadística y probabilidad
-  CA       Cálculo
-  LG       Lógica y razonamiento matemático
-  NT       Números y teoría numérica
-  VR       Visualización y representación matemática
+  Código   | Área
+  -------- |-------------------------------------------
+  AR       | Aritmética
+  FR       | Fracciones, razones y proporcionalidad
+  AL       | Álgebra
+  GE       | Geometría
+  MG       | Magnitudes y medición
+  DA       | Datos, estadística y probabilidad
+  CA       | Cálculo
+  LG       | Lógica y razonamiento matemático
+  NT       | Números y teoría numérica
+  VR       | Visualización y representación matemática
 
 ------------------------------------------------------------------------
 
