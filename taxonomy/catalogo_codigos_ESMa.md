@@ -1,5 +1,7 @@
 # Catálogo de códigos ESMa v1.0
 
+[English version](taxonomy_ESMa_EN.md)
+
 ## Referencia oficial para la clasificación de Errores Sistemáticos en Matemáticas
 
 ------------------------------------------------------------------------
