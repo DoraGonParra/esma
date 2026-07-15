@@ -101,7 +101,7 @@ instruction to obtain an answer.
 
 **Associated file:**
 
-[ESMa-AL-IE-001-evidence-01](evidence/ESMa-AL-IE-001-evidencia-01.jpg)
+[ESMa-AL-IE-001-evidence-01](evidencia/ESMa-AL-IE-001-evidencia-01.jpg)
 
 **Evidence description:**
 
@@ -144,13 +144,13 @@ result.
 ## Difference between expected and observed thinking
 
   -----------------------------------------------------------------------
-  Expected mathematical thinking      Observed thinking
-  ----------------------------------- -----------------------------------
-  The equal sign represents an        The equal sign indicates that an
+  Expected mathematical thinking     |Observed thinking
+  -----------------------------------| -----------------------------------
+  The equal sign represents an       | The equal sign indicates that an
   equivalence relationship between    answer has been obtained and a new
   two expressions.                    mathematical action can begin.
 
-  -----------------------------------------------------------------------
+  -----------------------------------|------------------------------------
 
 ------------------------------------------------------------------------
 
