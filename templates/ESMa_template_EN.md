@@ -1,5 +1,7 @@
 # ESMa Record Template v1.0
 
+[Versión em español](plantilla_ESMa.md)
+
 ## Systematic Errors in Mathematics Record
 
 ------------------------------------------------------------------------
