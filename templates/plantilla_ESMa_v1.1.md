@@ -107,8 +107,9 @@ explicar el razonamiento observado.
 
 ## Diferencia entre pensamiento esperado y pensamiento observado
 
-  Pensamiento matemático esperado   Pensamiento observado
-  --------------------------------- -----------------------
+  Pensamiento matemático esperado  | Pensamiento observado
+  ---------------------------------| -----------------------
+  ---------------------------------|------------------------
                                     
 
 ------------------------------------------------------------------------
