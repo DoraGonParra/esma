@@ -1,6 +1,6 @@
 # ESMa-AL-IE-001
 
-[Spanish version](ESMa-AL-IE-001.md)
+[Versión en español](ESMa-AL-IE-001.md)
 
 # Operational Conception of the Equal Sign
 
