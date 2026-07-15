@@ -111,10 +111,7 @@ El signo igual representa equivalencia entre expresiones, no únicamente una ins
 
 **Archivo asociado:**
 
-```
-./evidence/ESMa-AL-IE-001-evidencia-01.png
-```
-
+[evidencia/ESMa-AL-IE-001-evidencia-01.png]
 
 **Descripción de la evidencia:**
 
