@@ -1,5 +1,7 @@
 # Plantilla de registro ESMa v1.0
 
+[English version](ESMa_template_EN.md)
+
 ## Registro de Error Sistemático en Matemáticas
 
 ------------------------------------------------------------------------
