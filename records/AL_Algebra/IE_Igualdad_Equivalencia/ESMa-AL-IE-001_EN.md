@@ -144,13 +144,10 @@ result.
 ## Difference between expected and observed thinking
 
   -----------------------------------------------------------------------
-  Expected mathematical thinking     |Observed thinking
-  -----------------------------------| -----------------------------------
-  The equal sign represents an       | The equal sign indicates that an
-  equivalence relationship between    answer has been obtained and a new
-  two expressions.                    mathematical action can begin.
-
-  -----------------------------------|------------------------------------
+  Expected mathematical thinking     | Observed thinking
+  |---|---|
+  The equal sign represents an  equivalence relationship between    answer has been obtained and a new
+  two expressions.  | The equal sign indicates that an mathematical action can begin. |
 
 ------------------------------------------------------------------------
 
