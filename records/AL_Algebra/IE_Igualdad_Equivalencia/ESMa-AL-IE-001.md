@@ -71,36 +71,30 @@ Ejemplo de producción matemática escrita por un estudiante de primer semestre 
 
 Expresión:
 
-\[\frac{5}{6}-\frac{1}{3}+\frac{1}{2}\]
+5/6 - 1/3 + 1/2 
 
 El estudiante inicia el procedimiento:
 
-\[\frac{5}{6}-\frac{1}{3}\]
+5/6 - 1/3 =
 
 y obtiene:
 
-\[\frac{5}{6}-\frac{2}{6}=\frac{3}{6}\]
+5/6 - 1/3 = (5 x 2)/6 =
 
-Posteriormente continúa el procedimiento sin conservar la estructura completa de la expresión original, evidenciando una interpretación fragmentada del proceso matemático.
+Posteriormente continúa el procedimiento sin conservar la estructura completa de la expresión original, evidenciando una interpretación fragmentada del proceso matemático:
+
+5/6 - 1/3 = (5 x 2)/6 = 10/6 + 1/2 = (10 x 3)/6 = 30/6
 
 
 ## Pensamiento matemático esperado
 
 La expresión completa debe conservarse como una unidad matemática hasta finalizar todas las operaciones correspondientes.
 
-\[
-\frac{5}{6}-\frac{1}{3}+\frac{1}{2}
-\]
+5/6 - 1/3 + 1/2 
 
 Utilizando denominador común:
 
-\[
-\frac{5}{6}-\frac{2}{6}+\frac{3}{6}
-\]
-
-\[
-\frac{6}{6}=1
-\]
+5/6 - 1/3 + 1/2 = 5/6 - 2/6 + 3/6 = 6/6 = 1
 
 El signo igual representa equivalencia entre expresiones, no únicamente una instrucción para obtener una respuesta.
 
@@ -108,7 +102,7 @@ El signo igual representa equivalencia entre expresiones, no únicamente una ins
 
 # 3. Evidencia del razonamiento estudiantil
 
-## Evidencia primaria
+## Evidencia en primer semestre de bachillerato
 
 **Tipo de evidencia:**
 
@@ -116,8 +110,6 @@ El signo igual representa equivalencia entre expresiones, no únicamente una ins
 
 
 **Archivo asociado:**
-
-Pendiente de agregar:
 
 ```
 ./evidence/ESMa-AL-IE-001-evidencia-01.png
@@ -152,9 +144,7 @@ El estudiante puede haber construido la regla implícita:
 
 Este modelo mental surge frecuentemente de experiencias iniciales donde ejercicios como:
 
-\[
-3+4=\square
-\]
+\[3+4=\square\]
 
 refuerzan la asociación entre el símbolo igual y la obtención de un resultado final.
 
