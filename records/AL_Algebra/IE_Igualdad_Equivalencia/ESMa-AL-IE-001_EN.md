@@ -146,8 +146,7 @@ result.
   -----------------------------------------------------------------------
   Expected mathematical thinking     | Observed thinking
   |---|---|
-  The equal sign represents an  equivalence relationship between    answer has been obtained and a new
-  two expressions.  | The equal sign indicates that an mathematical action can begin. |
+  The equal sign represents an equivalence relationship between two expressions. | The equal sign indicates that an answer has been obtained and a new mathematical action can begin. |
 
 ------------------------------------------------------------------------
 
