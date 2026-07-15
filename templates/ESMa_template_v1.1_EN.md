@@ -105,8 +105,8 @@ explain the observed reasoning.
 
 ## Difference between expected and observed thinking
 
-  Expected mathematical thinking   Observed thinking
-  -------------------------------- -------------------
+  Expected mathematical thinking  | Observed thinking
+  --------------------------------| -------------------
                                    
 
 ------------------------------------------------------------------------
