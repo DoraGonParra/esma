@@ -1,5 +1,7 @@
 # ESMa-AL-IE-001
 
+[English version](ESMa-AL-IE-001_EN.md)
+
 # Concepción operacional del signo igual
 
 ---
@@ -111,7 +113,7 @@ El signo igual representa equivalencia entre expresiones, no únicamente una ins
 
 **Archivo asociado:**
 
-[evidencia/ESMa-AL-IE-001-evidencia-01.png]
+(evidencia/ESMa-AL-IE-001-evidencia-01.png)
 
 **Descripción de la evidencia:**
 
@@ -141,7 +143,7 @@ El estudiante puede haber construido la regla implícita:
 
 Este modelo mental surge frecuentemente de experiencias iniciales donde ejercicios como:
 
-\[3+4=\square\]
+3+4 = [ ]
 
 refuerzan la asociación entre el símbolo igual y la obtención de un resultado final.
 
@@ -160,9 +162,7 @@ refuerzan la asociación entre el símbolo igual y la obtención de un resultado
 
 Durante los primeros años de aprendizaje matemático, muchos estudiantes trabajan principalmente con expresiones del tipo:
 
-\[
 a+b=c
-\]
 
 donde el lado derecho representa una respuesta.
 
@@ -202,9 +202,7 @@ Bush, S. B. (2011). *Analyzing Common Algebra-Related Misconceptions and Errors 
 - Presentar expresiones donde el signo igual aparezca entre dos expresiones equivalentes.
 - Trabajar ejercicios abiertos como:
 
-\[
-8+4=\square+5
-\]
+8+4= [ ]
 
 - Utilizar representaciones visuales de equilibrio e igualdad.
 - Promover explicaciones del razonamiento, no únicamente procedimientos.
