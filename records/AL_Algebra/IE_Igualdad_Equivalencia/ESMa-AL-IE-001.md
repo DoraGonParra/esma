@@ -71,21 +71,15 @@ Ejemplo de producción matemática escrita por un estudiante de primer semestre 
 
 Expresión:
 
-\[
-\frac{5}{6}-\frac{1}{3}+\frac{1}{2}
-\]
+\[\frac{5}{6}-\frac{1}{3}+\frac{1}{2}\]
 
 El estudiante inicia el procedimiento:
 
-\[
-\frac{5}{6}-\frac{1}{3}
-\]
+\[\frac{5}{6}-\frac{1}{3}\]
 
 y obtiene:
 
-\[
-\frac{5}{6}-\frac{2}{6}=\frac{3}{6}
-\]
+\[\frac{5}{6}-\frac{2}{6}=\frac{3}{6}\]
 
 Posteriormente continúa el procedimiento sin conservar la estructura completa de la expresión original, evidenciando una interpretación fragmentada del proceso matemático.
 
