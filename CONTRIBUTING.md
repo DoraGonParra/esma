@@ -1,6 +1,6 @@
 # Contribuir al proyecto ESMa
 
-[English version](# English_version)
+[English version](#English_version)
 
 ---
 
