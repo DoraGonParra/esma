@@ -56,18 +56,18 @@ Ejemplo: `ESMa-AR-JO-001`
 
 ## Áreas matemáticas iniciales
 
-  Código   Área
-  -------- ----------------------------------------
-  AR       Aritmética
-  FR       Fracciones, razones y proporcionalidad
-  AL       Álgebra
-  GE       Geometría
-  MG       Magnitudes y medición
-  DA       Datos y azar
-  CA       Cálculo
-  LG       Lógica y razonamiento matemático
-  NT       Números y teoría numérica
-  VA       Visualización matemática
+  Código |  Área
+  -------| ----------------------------------------
+  AR     |  Aritmética
+  FR     |  Fracciones, razones y proporcionalidad
+  AL     |  Álgebra
+  GE     |  Geometría
+  MG     |  Magnitudes y medición
+  DA     |  Datos y azar
+  CA     |  Cálculo
+  LG     |  Lógica y razonamiento matemático
+  NT     |  Números y teoría numérica
+  VA     |  Visualización matemática
 
 ## Filosofía del repositorio
 
@@ -88,3 +88,17 @@ conocimiento abierta en español.
 El idioma principal de ESMa es el español. Se desarrollarán versiones en
 inglés para facilitar la colaboración internacional y el intercambio de
 conocimiento.
+
+## Estado del proyecto: versión inicial en desarrollo
+
+ESMa se encuentra actualmente en una etapa inicial de construcción metodológica. 
+El repositorio público contiene la primera versión de la taxonomía, plantillas de documentación y registros iniciales. 
+La base continuará creciendo mediante procesos de revisión y curaduría.
+v0.1 - Publicación inicial
+
+## Licencia
+
+Este repositorio se encuentra bajo la licencia Creative Commons
+Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0).
+
+Consulta el archivo LICENSE.md para más información.
