@@ -1,0 +1,337 @@
+# Contribuir al proyecto ESMa
+
+[English version](#english-version)
+
+---
+
+# Errores Sistemáticos en Matemáticas (ESMa)
+
+Versión del documento: v1.0  
+Fecha: julio de 2026
+
+---
+
+# Sobre las contribuciones
+
+El proyecto **ESMa (Errores Sistemáticos en Matemáticas)** busca construir una base de conocimiento abierta sobre patrones recurrentes de razonamiento matemático observados en estudiantes de educación K-12.
+
+La participación de docentes, investigadores y comunidades educativas es fundamental para enriquecer el repositorio mediante:
+
+- identificación de nuevos patrones de razonamiento matemático;
+- aportación de evidencias de aula;
+- incorporación de referencias bibliográficas;
+- propuestas de estrategias didácticas.
+
+Las contribuciones son bienvenidas siempre que respeten la estructura metodológica, los criterios de calidad y los principios éticos del proyecto.
+
+---
+
+# Antes de contribuir
+
+Antes de enviar una propuesta, se recomienda:
+
+1. Revisar la taxonomía ESMa disponible en:
+
+[Taxonomía ESMa](taxonomy/taxonomia_ESMa.md)
+
+2. Revisar la plantilla oficial de registro:
+
+[Plantilla ESMa](templates/plantilla_ESMa_v1.1.md)
+
+3. Verificar que el fenómeno observado no corresponda a una ESMa previamente documentada.
+
+---
+
+# Tipos de contribuciones aceptadas
+
+## 1. Nuevos registros ESMa
+
+Se pueden proponer nuevos registros cuando se identifique un patrón recurrente de razonamiento matemático.
+
+Una propuesta debe incluir:
+
+- nombre descriptivo del patrón;
+- clasificación tentativa dentro de la taxonomía;
+- descripción del razonamiento observado;
+- evidencia disponible;
+- nivel educativo donde fue observado;
+- referencias bibliográficas relacionadas.
+
+---
+
+## 2. Evidencia de aula
+
+Los docentes pueden contribuir con ejemplos provenientes de sus experiencias educativas.
+
+La evidencia puede incluir:
+
+- procedimientos escritos;
+- producciones matemáticas;
+- observaciones de clase;
+- entrevistas;
+- instrumentos diagnósticos.
+
+Toda evidencia debe encontrarse anonimizada y no debe contener información personal identificable de estudiantes.
+
+---
+
+## 3. Referencias bibliográficas
+
+Se pueden proponer:
+
+- artículos científicos;
+- libros académicos;
+- tesis;
+- reportes educativos.
+
+Las referencias deben incluir, cuando sea posible, información en formato APA 7a edición.
+
+---
+
+## 4. Estrategias didácticas
+
+También pueden proponerse:
+
+- actividades educativas;
+- preguntas docentes;
+- representaciones matemáticas;
+- recursos de enseñanza;
+- intervenciones documentadas.
+
+---
+
+# Proceso de revisión
+
+Las contribuciones enviadas serán revisadas para verificar:
+
+## Consistencia conceptual
+
+Que el registro describa un patrón de razonamiento matemático y no únicamente un error de cálculo aislado.
+
+## Evidencia suficiente
+
+Que exista información que permita comprender cómo aparece el razonamiento observado.
+
+## Clasificación adecuada
+
+Que el registro utilice correctamente la taxonomía y códigos ESMa.
+
+## Fundamentación académica
+
+Que exista relación con investigación educativa o documentación pertinente cuando sea posible.
+
+---
+
+# Criterios éticos
+
+ESMa tiene un compromiso con el uso responsable de evidencia educativa.
+
+Por ello:
+
+- No se publicará información personal identificable de estudiantes.
+- Las evidencias deberán estar anonimizadas.
+- Las producciones estudiantiles deberán utilizarse respetando principios éticos educativos.
+- Las referencias y materiales de terceros deberán respetar sus derechos correspondientes.
+
+---
+
+# Flujo de incorporación
+
+El proceso general será:
+
+1. Enviar propuesta de contribución.
+2. Revisión inicial de estructura y contenido.
+3. Solicitud de ajustes cuando sea necesario.
+4. Validación por parte de la curaduría ESMa.
+5. Incorporación al repositorio público.
+
+La recepción de una propuesta no garantiza su publicación.
+
+---
+
+# Autoría y reconocimiento
+
+Las personas que contribuyan con registros, evidencias o análisis podrán ser reconocidas como colaboradoras del proyecto según el tipo de aportación realizada.
+
+La integración de una contribución al repositorio no implica transferencia de autoría sobre materiales originales.
+
+---
+
+# Contacto
+
+Para propuestas de colaboración, dudas o contribuciones, utilizar los canales oficiales indicados en el repositorio.
+
+---
+
+ESMa busca construir una comunidad donde docentes e investigadores puedan compartir conocimiento matemático de manera abierta, rigurosa y responsable.
+
+---
+
+# English Version
+
+[Versión en español](#contribuir-al-proyecto-esma)
+
+---
+
+# Contributing to ESMa
+
+## Errores Sistemáticos en Matemáticas (ESMa)
+
+Document version: v1.0  
+Date: July 2026
+
+---
+
+# About contributions
+
+The **ESMa (Errores Sistemáticos en Matemáticas)** project aims to build an open knowledge base about recurring mathematical reasoning patterns observed in K-12 students.
+
+The participation of teachers, researchers, and educational communities is essential to enrich the repository through:
+
+- identification of new mathematical reasoning patterns;
+- contribution of classroom evidence;
+- inclusion of bibliographic references;
+- proposals of educational strategies.
+
+Contributions are welcome as long as they follow the methodological structure, quality criteria, and ethical principles of the project.
+
+---
+
+# Before contributing
+
+Before submitting a proposal, contributors should:
+
+1. Review the ESMa taxonomy available at:
+
+[ESMa Taxonomy](taxonomy/taxonomia_ESMa.md)
+
+2. Review the official record template:
+
+[ESMa Template](templates/ESMa_template_v1.1_EN.md)
+
+3. Verify that the observed phenomenon has not already been documented as an existing ESMa record.
+
+---
+
+# Accepted contribution types
+
+## 1. New ESMa records
+
+New records may be proposed when a recurring mathematical reasoning pattern is identified.
+
+A proposal should include:
+
+- descriptive name of the pattern;
+- tentative classification within the taxonomy;
+- description of the observed reasoning;
+- available evidence;
+- educational level where it was observed;
+- related bibliographic references.
+
+---
+
+## 2. Classroom evidence
+
+Teachers may contribute examples from their educational experiences.
+
+Evidence may include:
+
+- written procedures;
+- mathematical productions;
+- classroom observations;
+- interviews;
+- diagnostic instruments.
+
+All evidence must be anonymized and must not contain personally identifiable student information.
+
+---
+
+## 3. Bibliographic references
+
+Contributors may suggest:
+
+- scientific articles;
+- academic books;
+- dissertations;
+- educational reports.
+
+References should include APA 7th edition format whenever possible.
+
+---
+
+## 4. Educational strategies
+
+Contributors may also propose:
+
+- educational activities;
+- teacher questions;
+- mathematical representations;
+- teaching resources;
+- documented interventions.
+
+---
+
+# Review process
+
+Submitted contributions will be reviewed according to:
+
+## Conceptual consistency
+
+The record must describe a mathematical reasoning pattern and not only an isolated calculation error.
+
+## Sufficient evidence
+
+The submission should provide enough information to understand how the reasoning pattern appears.
+
+## Appropriate classification
+
+The record must correctly use the ESMa taxonomy and coding system.
+
+## Academic foundation
+
+Connections with educational research or relevant documentation should be included whenever possible.
+
+---
+
+# Ethical guidelines
+
+ESMa is committed to the responsible use of educational evidence.
+
+Therefore:
+
+- Personally identifiable student information will not be published.
+- Evidence must be anonymized.
+- Student productions must be used according to ethical educational principles.
+- References and third-party materials must respect their corresponding rights.
+
+---
+
+# Integration process
+
+The general process is:
+
+1. Submit a contribution proposal.
+2. Initial review of structure and content.
+3. Request adjustments when necessary.
+4. Validation by ESMa curation.
+5. Inclusion in the public repository.
+
+Submission of a proposal does not guarantee publication.
+
+---
+
+# Authorship and recognition
+
+Contributors who provide records, evidence, or analysis may be recognized as project collaborators according to the type of contribution provided.
+
+Integration of a contribution into the repository does not imply transfer of authorship over original materials.
+
+---
+
+# Contact
+
+For collaboration proposals, questions, or contributions, use the official contact channels provided in the repository.
+
+---
+
+ESMa seeks to build a community where teachers and researchers can share mathematical knowledge in an open, rigorous, and responsible way.
