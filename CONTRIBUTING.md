@@ -1,6 +1,6 @@
 # Contribuir al proyecto ESMa
 
-[English version](#English version)
+[English version](# English_version)
 
 ---
 
@@ -167,7 +167,7 @@ ESMa busca construir una comunidad donde docentes e investigadores puedan compar
 
 ---
 
-#English Version
+# English Version
 
 [Versión en español](#contribuir-al-proyecto-esma)
 
